@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Fact_2 {
+public class Fact_2 {//ela bn
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
